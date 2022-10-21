@@ -11,7 +11,7 @@ function App() {
       columns={data.columns}
       rowsData={data.rows}
       pageSize={5}
-      rowsPerPage={5}/>  
+      rowsPerPage={5}/> 
     </div>
   )
 }
